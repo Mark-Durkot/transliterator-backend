@@ -9,7 +9,9 @@ RUN apt-get update && apt-get install -y \
     qt5-qmake \
     qt6-base-dev \
     qt6-httpserver-dev \
-    qt6-websockets-dev
+    qt6-websockets-dev \
+    && apt-get clean \
+    && rm -rf /var/lib/apt/lists/*
 
 # Set up environment variables for Qt
 ENV QTDIR /usr/lib/qt6

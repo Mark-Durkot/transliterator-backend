@@ -49,4 +49,5 @@ RESOURCES += \
 
 DISTFILES += \
     CMakeLists.txt \
-    Dockerfile
+    Dockerfile \
+    Jenkinsfile

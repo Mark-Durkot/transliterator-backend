@@ -1,0 +1,1372 @@
+<language_pair target_language="Ukrainian" source_language="German" bidirectional="0">
+ <syllable source="behend" type="0" target="бегенд"/>
+ <syllable source="haghel" type="0" target="гаґель"/>
+ <syllable source="behau" type="0" target="бегау"/>
+ <syllable source="hege" type="0" target="геґе"/>
+ <syllable source="gh" type="2" target="ґ"/>
+ <syllable source="ab" type="1" target="123"/>
+ <syllable source="a" type="0" target="а"/>
+ <syllable source="acker" type="0" target="акер"/>
+ <syllable source="ae" type="0" target="е"/>
+ <syllable source="aeh" type="0" target="е"/>
+ <syllable source="aeu" type="0" target="ой"/>
+ <syllable source="aeve" type="0" target="еве"/>
+ <syllable source="ah" type="0" target="а"/>
+ <syllable source="aha" type="0" target="ага"/>
+ <syllable source="ahe" type="0" target="аге"/>
+ <syllable source="aho" type="0" target="аго"/>
+ <syllable source="ai" type="0" target="ай"/>
+ <syllable source="aia" type="0" target="ая"/>
+ <syllable source="aie" type="0" target="ає"/>
+ <syllable source="aihi" type="0" target="аї"/>
+ <syllable source="althegn" type="0" target="альтгеґн"/>
+ <syllable source="amalien" type="0" target="амалієн"/>
+ <syllable source="aue" type="0" target="ауе"/>
+ <syllable source="aui" type="0" target="ауї"/>
+ <syllable source="av" type="0" target="ав"/>
+ <syllable source="ay" type="0" target="ай"/>
+ <syllable source="aya" type="0" target="ая"/>
+ <syllable source="aye" type="0" target="ає"/>
+ <syllable source="ayi" type="0" target="аї"/>
+ <syllable source="b" type="0" target="б"/>
+ <syllable source="bach" type="0" target="бах"/>
+ <syllable source="bauch" type="0" target="баух"/>
+ <syllable source="bienne" type="0" target="б'єн"/>
+ <syllable source="bju" type="0" target="б'ю"/>
+ <syllable source="bjuh" type="0" target="б'ю"/>
+ <syllable source="bocholt" type="0" target="бохольт"/>
+ <syllable source="bocholtz" type="0" target="бохольц"/>
+ <syllable source="brauch" type="0" target="браух"/>
+ <syllable source="brecht" type="0" target="брехт"/>
+ <syllable source="brienz" type="0" target="брієнц"/>
+ <syllable source="broek" type="0" target="брук"/>
+ <syllable source="broekel" type="0" target="брекель"/>
+ <syllable source="broer" type="0" target="брор"/>
+ <syllable source="broich" type="0" target="брох"/>
+ <syllable source="brunnisach" type="0" target="бруннісах"/>
+ <syllable source="burgsort" type="0" target="бурґсорт"/>
+ <syllable source="by" type="0" target="бю"/>
+ <syllable source="byh" type="0" target="бю"/>
+ <syllable source="c" type="0" target="к"/>
+ <syllable source="c." type="0" target="к."/>
+ <syllable source="cae" type="0" target="це"/>
+ <syllable source="caeus" type="0" target="цеус"/>
+ <syllable source="carl" type="0" target="карл"/>
+ <syllable source="ce" type="0" target="це"/>
+ <syllable source="ch" type="0" target="х"/>
+ <syllable source="charlot" type="0" target="шарлот"/>
+ <syllable source="chris" type="0" target="кріс"/>
+ <syllable source="christange" type="0" target="крістанґе"/>
+ <syllable source="chs" type="0" target="кс"/>
+ <syllable source="chsa" type="0" target="кса"/>
+ <syllable source="chsch" type="0" target="хш"/>
+ <syllable source="chse" type="0" target="ксе"/>
+ <syllable source="chst" type="0" target="хст"/>
+ <syllable source="chumb" type="0" target="кумб"/>
+ <syllable source="ci" type="0" target="ці"/>
+ <syllable source="city" type="0" target="сіті"/>
+ <syllable source="ck" type="0" target="к"/>
+ <syllable source="ckh" type="0" target="к"/>
+ <syllable source="ckhold" type="0" target="кгольд"/>
+ <syllable source="ckholm" type="0" target="кгольм"/>
+ <syllable source="ckholt" type="0" target="кгольт"/>
+ <syllable source="cky" type="0" target="кі"/>
+ <syllable source="cottbuser" type="0" target="коттбусер"/>
+ <syllable source="cs" type="0" target="ч"/>
+ <syllable source="cues" type="0" target="кус"/>
+ <syllable source="cuylen" type="0" target="койлен"/>
+ <syllable source="cz" type="0" target="ч"/>
+ <syllable source="czy" type="0" target="чі"/>
+ <syllable source="cä" type="0" target="це"/>
+ <syllable source="d" type="0" target="д"/>
+ <syllable source="deichstrich" type="0" target="дайхштріх"/>
+ <syllable source="dhaun" type="0" target="даун"/>
+ <syllable source="dhr" type="0" target="др"/>
+ <syllable source="dhünn" type="0" target="дюнн"/>
+ <syllable source="diethild" type="0" target="дітгільд"/>
+ <syllable source="dorf" type="0" target="дорф"/>
+ <syllable source="dörverden" type="0" target="дерферден"/>
+ <syllable source="e" type="0" target="е"/>
+ <syllable source="eae" type="0" target="еє"/>
+ <syllable source="eckartsau" type="0" target="екартсау"/>
+ <syllable source="eh" type="0" target="е"/>
+ <syllable source="eha" type="0" target="ега"/>
+ <syllable source="ehai" type="0" target="егай"/>
+ <syllable source="ehst" type="0" target="ейст"/>
+ <syllable source="eht" type="0" target="ейт"/>
+ <syllable source="ehud" type="0" target="егуд"/>
+ <syllable source="ei" type="0" target="ай"/>
+ <syllable source="eia" type="0" target="айа"/>
+ <syllable source="eibelsau" type="0" target="айбельсау"/>
+ <syllable source="eich" type="0" target="айх"/>
+ <syllable source="eichsfeld" type="0" target="айхсфельд"/>
+ <syllable source="eie" type="0" target="ає"/>
+ <syllable source="eih" type="0" target="ай"/>
+ <syllable source="eiha" type="0" target="айга"/>
+ <syllable source="eihe" type="0" target="ає"/>
+ <syllable source="eihu" type="0" target="аю"/>
+ <syllable source="eitz" type="0" target="айц"/>
+ <syllable source="elstra" type="0" target="ельстра"/>
+ <syllable source="etlas" type="0" target="етлас"/>
+ <syllable source="eu" type="0" target="ой"/>
+ <syllable source="eue" type="0" target="оє"/>
+ <syllable source="euha" type="0" target="ойга"/>
+ <syllable source="eve" type="0" target="еве"/>
+ <syllable source="ey" type="0" target="ай"/>
+ <syllable source="eya" type="0" target="ая"/>
+ <syllable source="eye" type="0" target="ає"/>
+ <syllable source="eyh" type="0" target="ай"/>
+ <syllable source="eyhe" type="0" target="ає"/>
+ <syllable source="eyi" type="0" target="аї"/>
+ <syllable source="eyu" type="0" target="аю"/>
+ <syllable source="f" type="0" target="ф"/>
+ <syllable source="fehild" type="0" target="фегільд"/>
+ <syllable source="feistern" type="0" target="файстерн"/>
+ <syllable source="finstern" type="0" target="фінстерн"/>
+ <syllable source="forstau" type="0" target="форстау"/>
+ <syllable source="forstern" type="0" target="форстерн"/>
+ <syllable source="francesc" type="0" target="франческ"/>
+ <syllable source="fuchstal" type="0" target="фуксталь"/>
+ <syllable source="g" type="0" target="ґ"/>
+ <syllable source="gabrie" type="0" target="ґабріе"/>
+ <syllable source="gastein" type="0" target="ґастайн"/>
+ <syllable source="gastern" type="0" target="ґастерн"/>
+ <syllable source="gck" type="0" target="к"/>
+ <syllable source="geheuer" type="0" target="ґегоєр"/>
+ <syllable source="gelchs" type="0" target="ґельхс"/>
+ <syllable source="gerchs" type="0" target="ґерхс"/>
+ <syllable source="geretseck" type="0" target="ґеретсек"/>
+ <syllable source="gerthold" type="0" target="ґертгольд"/>
+ <syllable source="gia" type="0" target="джа"/>
+ <syllable source="gke" type="2" target="ке"/>
+ <syllable source="gko" type="2" target="ко"/>
+ <syllable source="gk" type="2" target="к"/>
+ <syllable source="gny" type="0" target="ньї"/>
+ <syllable source="goitzsche" type="0" target="ґоче"/>
+ <syllable source="gold" type="0" target="ґольд"/>
+ <syllable source="gotthild" type="0" target="ґоттгільд"/>
+ <syllable source="gottsched" type="0" target="ґоттшед"/>
+ <syllable source="grasellenbach" type="0" target="ґраселленбах"/>
+ <syllable source="guido" type="0" target="ґідо"/>
+ <syllable source="guildo" type="0" target="ґільдо"/>
+ <syllable source="gymnich" type="0" target="ґюмніх"/>
+ <syllable source="h" type="0" target="г"/>
+ <syllable source="haas" type="0" target="гаас"/>
+ <syllable source="haase" type="0" target="гаазе"/>
+ <syllable source="hacker" type="0" target="гакер"/>
+ <syllable source="hagen" type="0" target="гаґен"/>
+ <syllable source="haid" type="0" target="гайд"/>
+ <syllable source="hain" type="0" target="гайн"/>
+ <syllable source="hake" type="0" target="гаке"/>
+ <syllable source="hals" type="0" target="гальс"/>
+ <syllable source="halsen" type="0" target="гальзен"/>
+ <syllable source="halt" type="0" target="гальт"/>
+ <syllable source="haming" type="0" target="гамінґ"/>
+ <syllable source="hammer" type="0" target="гаммер"/>
+ <syllable source="hansa" type="0" target="ганза"/>
+ <syllable source="haraseck" type="0" target="гарасек"/>
+ <syllable source="hard" type="0" target="гард"/>
+ <syllable source="harrie" type="0" target="гарріє"/>
+ <syllable source="hart" type="0" target="гарт"/>
+ <syllable source="harth" type="0" target="гарт"/>
+ <syllable source="harz" type="0" target="гарц"/>
+ <syllable source="hase" type="0" target="газе"/>
+ <syllable source="hasport" type="0" target="гаспорт"/>
+ <syllable source="haupt" type="0" target="гаупт"/>
+ <syllable source="haus" type="0" target="гаус"/>
+ <syllable source="hausach" type="0" target="гаузах"/>
+ <syllable source="hausch" type="0" target="гауш"/>
+ <syllable source="hausen" type="0" target="гаузен"/>
+ <syllable source="hauser" type="0" target="гаузер"/>
+ <syllable source="haut" type="0" target="гаут"/>
+ <syllable source="havel" type="0" target="гафель"/>
+ <syllable source="haven" type="0" target="гафен"/>
+ <syllable source="haverlah" type="0" target="гаферла"/>
+ <syllable source="heide" type="0" target="гайде"/>
+ <syllable source="heil" type="0" target="гайль"/>
+ <syllable source="heila" type="0" target="гайла"/>
+ <syllable source="heile" type="0" target="гайле"/>
+ <syllable source="heili" type="0" target="гайлі"/>
+ <syllable source="heilo" type="0" target="гайло"/>
+ <syllable source="heim" type="0" target="гайм"/>
+ <syllable source="heis" type="0" target="гайс"/>
+ <syllable source="heiser" type="0" target="гайзер"/>
+ <syllable source="heisser" type="0" target="гайссер"/>
+ <syllable source="heit" type="0" target="гайт"/>
+ <syllable source="heiß" type="0" target="гайсс"/>
+ <syllable source="helm" type="0" target="гельм"/>
+ <syllable source="hengst" type="0" target="генґст"/>
+ <syllable source="hengstett" type="0" target="генґштетт"/>
+ <syllable source="henke" type="0" target="генке"/>
+ <syllable source="henne" type="0" target="генне"/>
+ <syllable source="herbst" type="0" target="гербст"/>
+ <syllable source="herbstadt" type="0" target="гербштадт"/>
+ <syllable source="herbstein" type="0" target="гербштайн"/>
+ <syllable source="herr" type="0" target="герр"/>
+ <syllable source="heute" type="0" target="гойте"/>
+ <syllable source="hier" type="0" target="гір"/>
+ <syllable source="hilst" type="0" target="гільст"/>
+ <syllable source="hochart" type="0" target="гохарт"/>
+ <syllable source="hodis" type="0" target="годіс"/>
+ <syllable source="hof" type="0" target="гоф"/>
+ <syllable source="hofen" type="0" target="гофен"/>
+ <syllable source="hofer" type="0" target="гофер"/>
+ <syllable source="holstein" type="0" target="гольштайн"/>
+ <syllable source="holt" type="0" target="гольт"/>
+ <syllable source="holtz" type="0" target="гольц"/>
+ <syllable source="holz" type="0" target="гольц"/>
+ <syllable source="horn" type="0" target="горн"/>
+ <syllable source="horst" type="0" target="горст"/>
+ <syllable source="hose" type="0" target="гозе"/>
+ <syllable source="hoven" type="0" target="гофен"/>
+ <syllable source="hues" type="0" target="гус"/>
+ <syllable source="husen" type="0" target="гузен"/>
+ <syllable source="huygen" type="0" target="гойґен"/>
+ <syllable source="huys" type="0" target="гюс"/>
+ <syllable source="huysen" type="0" target="гюзен"/>
+ <syllable source="häusel" type="0" target="гойзель"/>
+ <syllable source="häuser" type="0" target="гойзер"/>
+ <syllable source="höft" type="0" target="гефт"/>
+ <syllable source="höhe" type="0" target="гое"/>
+ <syllable source="höhein" type="0" target="геайн"/>
+ <syllable source="höheisch" type="0" target="геайш"/>
+ <syllable source="hütte" type="0" target="гютте"/>
+ <syllable source="i" type="0" target="і"/>
+ <syllable source="ia" type="2" target="ія"/>
+ <syllable source="ichard" type="0" target="іхард"/>
+ <syllable source="ichart" type="0" target="іхарт"/>
+ <syllable source="ichartz" type="0" target="іхарц"/>
+ <syllable source="ichsh" type="0" target="іхсг"/>
+ <syllable source="ie" type="0" target="і"/>
+ <syllable source="ieh" type="0" target="і"/>
+ <syllable source="ieha" type="0" target="іга"/>
+ <syllable source="ienst" type="0" target="інст"/>
+ <syllable source="ieve" type="0" target="іве"/>
+ <syllable source="igsau" type="0" target="іґсау"/>
+ <syllable source="ih" type="0" target="і"/>
+ <syllable source="ihlien" type="0" target="ілієн"/>
+ <syllable source="illvibe" type="0" target="ільвібе"/>
+ <syllable source="ilvie" type="0" target="ільві"/>
+ <syllable source="isaa" type="0" target="ісаа"/>
+ <syllable source="isau" type="0" target="ісау"/>
+ <syllable source="ispringen" type="0" target="іспрінґен"/>
+ <syllable source="itch" type="0" target="іч"/>
+ <syllable source="ive" type="0" target="іве"/>
+ <syllable source="ivi" type="0" target="іві"/>
+ <syllable source="ivo" type="0" target="іво"/>
+ <syllable source="j" type="0" target="й"/>
+ <syllable source="ja" type="0" target="я"/>
+ <syllable source="jae" type="0" target="є"/>
+ <syllable source="jah" type="0" target="я"/>
+ <syllable source="jai" type="0" target="яй"/>
+ <syllable source="jauch" type="0" target="яух"/>
+ <syllable source="jaue" type="0" target="яуе"/>
+ <syllable source="jauss" type="0" target="яус"/>
+ <syllable source="jauß" type="0" target="яус"/>
+ <syllable source="je" type="0" target="є"/>
+ <syllable source="jee" type="0" target="є"/>
+ <syllable source="jeh" type="0" target="є"/>
+ <syllable source="jehud" type="0" target="єгуд"/>
+ <syllable source="jei" type="0" target="яй"/>
+ <syllable source="jeve" type="0" target="єве"/>
+ <syllable source="ji" type="0" target="ї"/>
+ <syllable source="jo" type="0" target="йо"/>
+ <syllable source="joha" type="0" target="йога"/>
+ <syllable source="joist" type="0" target="йост"/>
+ <syllable source="ju" type="0" target="ю"/>
+ <syllable source="jue" type="0" target="ю"/>
+ <syllable source="juh" type="0" target="ю"/>
+ <syllable source="jä" type="0" target="є"/>
+ <syllable source="jäh" type="0" target="є"/>
+ <syllable source="jö" type="0" target="йо"/>
+ <syllable source="jöh" type="0" target="є"/>
+ <syllable source="jü" type="0" target="ю"/>
+ <syllable source="jüh" type="0" target="ю"/>
+ <syllable source="k" type="0" target="к"/>
+ <syllable source="karl" type="0" target="карл"/>
+ <syllable source="kh" type="0" target="к"/>
+ <syllable source="khold" type="0" target="кгольд"/>
+ <syllable source="kholt" type="0" target="кгольт"/>
+ <syllable source="kje" type="0" target="к'є"/>
+ <syllable source="klosterneu" type="0" target="клостерной"/>
+ <syllable source="kluis" type="0" target="клюйс"/>
+ <syllable source="krähe" type="0" target="креге"/>
+ <syllable source="kuchel" type="0" target="кухель"/>
+ <syllable source="kues" type="0" target="кус"/>
+ <syllable source="kurzschwarz" type="0" target="курцшварц"/>
+ <syllable source="l" type="0" target="ль"/>
+ <syllable source="l." type="0" target="л."/>
+ <syllable source="la" type="0" target="ла"/>
+ <syllable source="lae" type="0" target="ле"/>
+ <syllable source="laeh" type="0" target="ле"/>
+ <syllable source="laer" type="0" target="лар"/>
+ <syllable source="lah" type="0" target="ла"/>
+ <syllable source="lahe" type="0" target="лаге"/>
+ <syllable source="lai" type="0" target="ляй"/>
+ <syllable source="laie" type="0" target="ляє"/>
+ <syllable source="lau" type="0" target="лау"/>
+ <syllable source="lauchstädt" type="0" target="лаухштедт"/>
+ <syllable source="laue" type="0" target="лауе"/>
+ <syllable source="laui" type="0" target="лауї"/>
+ <syllable source="lauss" type="0" target="лаусс"/>
+ <syllable source="lav" type="0" target="лав"/>
+ <syllable source="lava" type="0" target="лава"/>
+ <syllable source="lavi" type="0" target="лаві"/>
+ <syllable source="lay" type="0" target="ляй"/>
+ <syllable source="laye" type="0" target="ляє"/>
+ <syllable source="le" type="0" target="ле"/>
+ <syllable source="leh" type="0" target="ле"/>
+ <syllable source="lei" type="0" target="ляй"/>
+ <syllable source="leie" type="0" target="ляє"/>
+ <syllable source="leitz" type="0" target="ляйц"/>
+ <syllable source="leve" type="0" target="леве"/>
+ <syllable source="levi" type="0" target="леві"/>
+ <syllable source="ley" type="0" target="ляй"/>
+ <syllable source="leye" type="0" target="ляє"/>
+ <syllable source="leyh" type="0" target="ляй"/>
+ <syllable source="li" type="0" target="лі"/>
+ <syllable source="lia" type="2" target="лія"/>
+ <syllable source="lie" type="0" target="лі"/>
+ <syllable source="lieh" type="0" target="лі"/>
+ <syllable source="lieve" type="0" target="ліфе"/>
+ <syllable source="lie" type="2" target="ліє"/>
+ <syllable source="lilie" type="0" target="ліліє"/>
+ <syllable source="lisau" type="0" target="лісау"/>
+ <syllable source="live" type="0" target="ліве"/>
+ <syllable source="ll" type="0" target="ль"/>
+ <syllable source="lla" type="0" target="лла"/>
+ <syllable source="llae" type="0" target="лле"/>
+ <syllable source="llah" type="0" target="лла"/>
+ <syllable source="llau" type="0" target="ллау"/>
+ <syllable source="llaue" type="0" target="ллауе"/>
+ <syllable source="llay" type="0" target="лляй"/>
+ <syllable source="lle" type="0" target="лле"/>
+ <syllable source="lleh" type="0" target="лле"/>
+ <syllable source="lleha" type="0" target="ллега"/>
+ <syllable source="llei" type="0" target="лляй"/>
+ <syllable source="lley" type="0" target="лляй"/>
+ <syllable source="lli" type="0" target="ллі"/>
+ <syllable source="llia" type="2" target="ллія"/>
+ <syllable source="llichs" type="0" target="лліхс"/>
+ <syllable source="llie" type="0" target="ллі"/>
+ <syllable source="llien" type="0" target="ллієн"/>
+ <syllable source="llisau" type="0" target="ллісау"/>
+ <syllable source="llo" type="0" target="лло"/>
+ <syllable source="llon" type="0" target="льйон"/>
+ <syllable source="llu" type="0" target="ллу"/>
+ <syllable source="lluh" type="0" target="ллу"/>
+ <syllable source="lly" type="0" target="ллі"/>
+ <syllable source="llö" type="0" target="лле"/>
+ <syllable source="llü" type="0" target="ллю"/>
+ <syllable source="lo" type="0" target="ло"/>
+ <syllable source="loe" type="0" target="ле"/>
+ <syllable source="loeh" type="0" target="ле"/>
+ <syllable source="loeve" type="0" target="леве"/>
+ <syllable source="loh" type="0" target="ло"/>
+ <syllable source="loi" type="0" target="лой"/>
+ <syllable source="loitz" type="0" target="лойц"/>
+ <syllable source="losau" type="0" target="лосау"/>
+ <syllable source="lou" type="0" target="лу"/>
+ <syllable source="loui" type="0" target="луї"/>
+ <syllable source="louis" type="0" target="луї"/>
+ <syllable source="love" type="0" target="лове"/>
+ <syllable source="lovi" type="0" target="лові"/>
+ <syllable source="loy" type="0" target="лой"/>
+ <syllable source="ltz" type="0" target="льц"/>
+ <syllable source="lu" type="0" target="лю"/>
+ <syllable source="lue" type="0" target="лю"/>
+ <syllable source="lueve" type="0" target="люве"/>
+ <syllable source="lugan" type="0" target="луґан"/>
+ <syllable source="luh" type="0" target="лю"/>
+ <syllable source="lui" type="0" target="луї"/>
+ <syllable source="luve" type="0" target="люве"/>
+ <syllable source="lve" type="0" target="льве"/>
+ <syllable source="lvi" type="0" target="льві"/>
+ <syllable source="ly" type="0" target="лі"/>
+ <syllable source="là" type="0" target="ла"/>
+ <syllable source="lä" type="0" target="ле"/>
+ <syllable source="läh" type="0" target="ле"/>
+ <syllable source="lè" type="0" target="ле"/>
+ <syllable source="lé" type="0" target="ле"/>
+ <syllable source="lée" type="0" target="ле"/>
+ <syllable source="lö" type="0" target="ле"/>
+ <syllable source="löh" type="0" target="ле"/>
+ <syllable source="löve" type="0" target="леве"/>
+ <syllable source="lü" type="0" target="лю"/>
+ <syllable source="lüh" type="0" target="лю"/>
+ <syllable source="lüve" type="0" target="люве"/>
+ <syllable source="m" type="0" target="м"/>
+ <syllable source="mallon" type="0" target="маллон"/>
+ <syllable source="manuel" type="0" target="мануель"/>
+ <syllable source="manuela" type="0" target="мануела"/>
+ <syllable source="marialuise" type="0" target="маріялуїзе"/>
+ <syllable source="mariaposching" type="0" target="маріяпошінґ"/>
+ <syllable source="mariasdorf" type="0" target="маріясдорф"/>
+ <syllable source="mariastein" type="0" target="маріяштайн"/>
+ <syllable source="mariathal" type="0" target="маріяталь"/>
+ <syllable source="marien" type="0" target="марієн"/>
+ <syllable source="mechthild" type="0" target="мехтгільд"/>
+ <syllable source="michae" type="0" target="міхае"/>
+ <syllable source="mja" type="0" target="м'я"/>
+ <syllable source="moosalb" type="0" target="моосальб"/>
+ <syllable source="moosinn" type="0" target="моосінн"/>
+ <syllable source="möhe" type="0" target="мое"/>
+ <syllable source="mönchs" type="0" target="менхс"/>
+ <syllable source="mühlacker" type="0" target="мюлакер"/>
+ <syllable source="münchsmünster" type="0" target="мюнхсмюнстер"/>
+ <syllable source="münichs" type="0" target="мюніхс"/>
+ <syllable source="n" type="0" target="н"/>
+ <syllable source="neu" type="0" target="ной"/>
+ <syllable source="nieder" type="0" target="нідер"/>
+ <syllable source="nievern" type="0" target="ніферн"/>
+ <syllable source="nja" type="0" target="н'я"/>
+ <syllable source="njahe" type="0" target="н'яе"/>
+ <syllable source="nje" type="0" target="н'є"/>
+ <syllable source="noreia" type="0" target="норая"/>
+ <syllable source="ntz" type="0" target="нц"/>
+ <syllable source="ný" type="0" target="ні"/>
+ <syllable source="o" type="0" target="о"/>
+ <syllable source="ober" type="0" target="обер"/>
+ <syllable source="oe" type="0" target="е"/>
+ <syllable source="oeh" type="0" target="е"/>
+ <syllable source="oeve" type="0" target="еве"/>
+ <syllable source="oey" type="0" target="е"/>
+ <syllable source="oh" type="0" target="о"/>
+ <syllable source="oi" type="0" target="ой"/>
+ <syllable source="oie" type="0" target="оє"/>
+ <syllable source="oihi" type="0" target="ойгі"/>
+ <syllable source="oitz" type="0" target="ойц"/>
+ <syllable source="olds" type="0" target="ольдс"/>
+ <syllable source="oldsum" type="0" target="ольдзум"/>
+ <syllable source="oranien" type="0" target="оранієн"/>
+ <syllable source="ortsch" type="0" target="ортш"/>
+ <syllable source="ortschaft" type="0" target="ортшафт"/>
+ <syllable source="ostern" type="0" target="остерн"/>
+ <syllable source="ostra" type="0" target="остра"/>
+ <syllable source="ottscha" type="0" target="оттша"/>
+ <syllable source="our" type="0" target="ур"/>
+ <syllable source="ove" type="0" target="ове"/>
+ <syllable source="ovi" type="0" target="ові"/>
+ <syllable source="oy" type="0" target="ой"/>
+ <syllable source="oya" type="0" target="оя"/>
+ <syllable source="oye" type="0" target="оє"/>
+ <syllable source="oyha" type="0" target="ойга"/>
+ <syllable source="oyi" type="0" target="ої"/>
+ <syllable source="p" type="0" target="п"/>
+ <syllable source="petersaurach" type="0" target="петерсаурах"/>
+ <syllable source="ph" type="0" target="ф"/>
+ <syllable source="piesport" type="0" target="піспорт"/>
+ <syllable source="postau" type="0" target="постау"/>
+ <syllable source="pph" type="0" target="ппг"/>
+ <syllable source="prichsen" type="0" target="пріксен"/>
+ <syllable source="psi" type="0" target="псі"/>
+ <syllable source="psilber" type="0" target="пзільбер"/>
+ <syllable source="psingen" type="0" target="пзінґен"/>
+ <syllable source="pyh" type="0" target="пю"/>
+ <syllable source="qu" type="0" target="кв"/>
+ <syllable source="r" type="0" target="р"/>
+ <syllable source="rchar" type="0" target="рхар"/>
+ <syllable source="rechts" type="0" target="рехтс"/>
+ <syllable source="reichar" type="0" target="райхар"/>
+ <syllable source="reichs" type="0" target="райхс"/>
+ <syllable source="remseck" type="0" target="ремсек"/>
+ <syllable source="reudelsterz" type="0" target="ройдельштерц"/>
+ <syllable source="revier" type="0" target="ревір"/>
+ <syllable source="rhaunen" type="0" target="раунен"/>
+ <syllable source="rhein" type="0" target="райн"/>
+ <syllable source="rhen" type="0" target="рен"/>
+ <syllable source="rhodt" type="0" target="родт"/>
+ <syllable source="rhön" type="0" target="рен"/>
+ <syllable source="richs" type="0" target="ріхс"/>
+ <syllable source="richsee" type="0" target="ріхзее"/>
+ <syllable source="rja" type="0" target="р'я"/>
+ <syllable source="rjah" type="0" target="р'я"/>
+ <syllable source="rodae" type="0" target="родае"/>
+ <syllable source="romatschachen" type="0" target="роматшахен"/>
+ <syllable source="rthold" type="0" target="ртольд"/>
+ <syllable source="rtz" type="0" target="рц"/>
+ <syllable source="ruthild" type="0" target="рутгільд"/>
+ <syllable source="rv" type="0" target="рв"/>
+ <syllable source="rvie" type="0" target="рфі"/>
+ <syllable source="s" type="0" target="с"/>
+ <syllable source="sa" type="0" target="за"/>
+ <syllable source="saar" type="0" target="саар"/>
+ <syllable source="sabin" type="0" target="сабін"/>
+ <syllable source="sabrin" type="0" target="сабрін"/>
+ <syllable source="sae" type="0" target="зе"/>
+ <syllable source="saechs" type="0" target="зекс"/>
+ <syllable source="safie" type="0" target="заф'є"/>
+ <syllable source="sah" type="0" target="за"/>
+ <syllable source="sai" type="0" target="зай"/>
+ <syllable source="salom" type="0" target="салом"/>
+ <syllable source="salvator" type="0" target="сальватор"/>
+ <syllable source="salvi" type="0" target="сальві"/>
+ <syllable source="salzsch" type="0" target="зальцш"/>
+ <syllable source="sandrin" type="0" target="сандрін"/>
+ <syllable source="sau" type="0" target="зау"/>
+ <syllable source="saue" type="0" target="зауе"/>
+ <syllable source="say" type="0" target="зай"/>
+ <syllable source="saye" type="0" target="зає"/>
+ <syllable source="sch" type="0" target="ш"/>
+ <syllable source="schaft" type="0" target="шафт"/>
+ <syllable source="schaid" type="0" target="шайд"/>
+ <syllable source="schain" type="0" target="шайн"/>
+ <syllable source="schake" type="0" target="шаке"/>
+ <syllable source="schalk" type="0" target="шальк"/>
+ <syllable source="schalt" type="0" target="шальт"/>
+ <syllable source="schard" type="0" target="шард"/>
+ <syllable source="schart" type="0" target="шарт"/>
+ <syllable source="schartz" type="0" target="шарц"/>
+ <syllable source="scharz" type="0" target="шарц"/>
+ <syllable source="schaue" type="0" target="шауе"/>
+ <syllable source="schaus" type="0" target="шаус"/>
+ <syllable source="schauseil" type="0" target="шаузайль"/>
+ <syllable source="schei" type="0" target="шай"/>
+ <syllable source="scheid" type="0" target="шайд"/>
+ <syllable source="schelle" type="0" target="шелле"/>
+ <syllable source="schenke" type="0" target="шенке"/>
+ <syllable source="scherr" type="0" target="шерр"/>
+ <syllable source="schie" type="0" target="ші"/>
+ <syllable source="schied" type="0" target="шід"/>
+ <syllable source="schlag" type="0" target="шлаґ"/>
+ <syllable source="schlaining" type="0" target="шляйнінґ"/>
+ <syllable source="schmidt" type="0" target="шмідт"/>
+ <syllable source="schmidthachen" type="0" target="шмідтгахен"/>
+ <syllable source="schneider" type="0" target="шнайдер"/>
+ <syllable source="schneiderhan" type="0" target="шнайдерган"/>
+ <syllable source="schof" type="0" target="шоф"/>
+ <syllable source="schofer" type="0" target="шофер"/>
+ <syllable source="scholz" type="0" target="шольц"/>
+ <syllable source="schor" type="0" target="шор"/>
+ <syllable source="schorn" type="0" target="шорн"/>
+ <syllable source="schuh" type="0" target="шу"/>
+ <syllable source="schwen" type="0" target="швен"/>
+ <syllable source="schwer" type="0" target="швер"/>
+ <syllable source="schöft" type="0" target="шефт"/>
+ <syllable source="se" type="0" target="зе"/>
+ <syllable source="secken" type="0" target="секен"/>
+ <syllable source="segg" type="0" target="сеґґ"/>
+ <syllable source="seh" type="0" target="зе"/>
+ <syllable source="sehe" type="0" target="зеє"/>
+ <syllable source="sehst" type="0" target="зейст"/>
+ <syllable source="seht" type="0" target="зейт"/>
+ <syllable source="sei" type="0" target="зай"/>
+ <syllable source="seie" type="0" target="зає"/>
+ <syllable source="seitz" type="0" target="зайц"/>
+ <syllable source="seren" type="0" target="серен"/>
+ <syllable source="seu" type="0" target="зой"/>
+ <syllable source="seve" type="0" target="зеве"/>
+ <syllable source="severus" type="0" target="северус"/>
+ <syllable source="sey" type="0" target="зай"/>
+ <syllable source="shelvis" type="0" target="шелвіс"/>
+ <syllable source="si" type="0" target="зі"/>
+ <syllable source="sibill" type="0" target="сібілл"/>
+ <syllable source="sichart" type="0" target="зіхарт"/>
+ <syllable source="sie" type="0" target="зі"/>
+ <syllable source="sieh" type="0" target="зі"/>
+ <syllable source="siehst" type="0" target="зійст"/>
+ <syllable source="sieht" type="0" target="зійт"/>
+ <syllable source="sieve" type="0" target="зіве"/>
+ <syllable source="sih" type="0" target="зі"/>
+ <syllable source="silvest" type="0" target="сільвест"/>
+ <syllable source="silvi" type="0" target="сільві"/>
+ <syllable source="silvie" type="0" target="сільві"/>
+ <syllable source="silvr" type="0" target="зільвр"/>
+ <syllable source="sistrans" type="0" target="зістранс"/>
+ <syllable source="sive" type="0" target="зіве"/>
+ <syllable source="sixt" type="0" target="сікст"/>
+ <syllable source="slav" type="0" target="слав"/>
+ <syllable source="so" type="0" target="зо"/>
+ <syllable source="sober" type="0" target="зобер"/>
+ <syllable source="soe" type="0" target="зе"/>
+ <syllable source="soeh" type="0" target="зе"/>
+ <syllable source="soh" type="0" target="зо"/>
+ <syllable source="soholm" type="0" target="зогольм"/>
+ <syllable source="soien" type="0" target="зоєн"/>
+ <syllable source="solvi" type="0" target="сольві"/>
+ <syllable source="sophien" type="0" target="зофієн"/>
+ <syllable source="soy" type="0" target="зой"/>
+ <syllable source="soyen" type="0" target="зоєн"/>
+ <syllable source="spai" type="0" target="шпай"/>
+ <syllable source="speck" type="0" target="шпек"/>
+ <syllable source="spei" type="0" target="шпай"/>
+ <syllable source="speie" type="0" target="шпає"/>
+ <syllable source="spell" type="0" target="шпель"/>
+ <syllable source="spelle" type="0" target="шпелле"/>
+ <syllable source="sperr" type="0" target="шперр"/>
+ <syllable source="speyer" type="0" target="шпаєр"/>
+ <syllable source="spiegel" type="0" target="шпіґель"/>
+ <syllable source="spiel" type="0" target="шпіль"/>
+ <syllable source="spieß" type="0" target="шпісс"/>
+ <syllable source="spitz" type="0" target="шпіц"/>
+ <syllable source="spitze" type="0" target="шпітце"/>
+ <syllable source="spitzi" type="0" target="шпітці"/>
+ <syllable source="spon" type="0" target="шпон"/>
+ <syllable source="sporn" type="0" target="шпорн"/>
+ <syllable source="sport" type="0" target="шпорт"/>
+ <syllable source="spr" type="0" target="шпр"/>
+ <syllable source="sprenz" type="0" target="шпренц"/>
+ <syllable source="sprockhövel" type="0" target="шпрокгефель"/>
+ <syllable source="ssa" type="0" target="сса"/>
+ <syllable source="ssah" type="0" target="сса"/>
+ <syllable source="ssau" type="0" target="ссау"/>
+ <syllable source="ssaue" type="0" target="ссауе"/>
+ <syllable source="sse" type="0" target="ссе"/>
+ <syllable source="sseh" type="0" target="ссе"/>
+ <syllable source="ssi" type="0" target="ссі"/>
+ <syllable source="ssie" type="0" target="ссі"/>
+ <syllable source="ssier" type="0" target="сьє"/>
+ <syllable source="sso" type="0" target="ссо"/>
+ <syllable source="ssu" type="0" target="ссу"/>
+ <syllable source="staa" type="0" target="штаа"/>
+ <syllable source="stab" type="0" target="штаб"/>
+ <syllable source="stad" type="0" target="штад"/>
+ <syllable source="stadt" type="0" target="штадт"/>
+ <syllable source="staedt" type="0" target="штедт"/>
+ <syllable source="stahl" type="0" target="шталь"/>
+ <syllable source="staig" type="0" target="штайґ"/>
+ <syllable source="stain" type="0" target="штайн"/>
+ <syllable source="stak" type="0" target="штак"/>
+ <syllable source="stalden" type="0" target="штальден"/>
+ <syllable source="stall" type="0" target="шталь"/>
+ <syllable source="stallehr" type="0" target="шталлер"/>
+ <syllable source="stalli" type="0" target="шталлі"/>
+ <syllable source="stamm" type="0" target="штамм"/>
+ <syllable source="stand" type="0" target="штанд"/>
+ <syllable source="stang" type="0" target="штанґ"/>
+ <syllable source="stark" type="0" target="штарк"/>
+ <syllable source="statt" type="0" target="штатт"/>
+ <syllable source="stau" type="0" target="штау"/>
+ <syllable source="steck" type="0" target="штек"/>
+ <syllable source="stede" type="0" target="штеде"/>
+ <syllable source="steder" type="0" target="штедер"/>
+ <syllable source="stedt" type="0" target="штедт"/>
+ <syllable source="steft" type="0" target="штефт"/>
+ <syllable source="steg" type="0" target="штеґ"/>
+ <syllable source="steidl" type="0" target="штайдль"/>
+ <syllable source="steig" type="0" target="штайґ"/>
+ <syllable source="stein" type="0" target="штайн"/>
+ <syllable source="steinhövel" type="0" target="штайнгефель"/>
+ <syllable source="steller" type="0" target="штеллер"/>
+ <syllable source="stelze" type="0" target="штельце"/>
+ <syllable source="stemmen" type="0" target="штеммен"/>
+ <syllable source="stern" type="0" target="штерн"/>
+ <syllable source="stett" type="0" target="штетт"/>
+ <syllable source="steuer" type="0" target="штоєр"/>
+ <syllable source="stich" type="0" target="штіх"/>
+ <syllable source="sticker" type="0" target="штікер"/>
+ <syllable source="stiel" type="0" target="штіль"/>
+ <syllable source="stift" type="0" target="штіфт"/>
+ <syllable source="stink" type="0" target="штінк"/>
+ <syllable source="stock" type="0" target="шток"/>
+ <syllable source="stoder" type="0" target="штодер"/>
+ <syllable source="storch" type="0" target="шторх"/>
+ <syllable source="stotzing" type="0" target="штотцінґ"/>
+ <syllable source="stra" type="0" target="штра"/>
+ <syllable source="strah" type="0" target="штра"/>
+ <syllable source="streit" type="0" target="штрайт"/>
+ <syllable source="streith" type="0" target="штрайт"/>
+ <syllable source="streli" type="0" target="штрелі"/>
+ <syllable source="streu" type="0" target="штрой"/>
+ <syllable source="strim" type="0" target="штрім"/>
+ <syllable source="stroheim" type="0" target="штрогайм"/>
+ <syllable source="strom" type="0" target="штром"/>
+ <syllable source="stube" type="0" target="штубе"/>
+ <syllable source="stuhl" type="0" target="штуль"/>
+ <syllable source="sturm" type="0" target="штурм"/>
+ <syllable source="styrum" type="0" target="штірум"/>
+ <syllable source="städt" type="0" target="штедт"/>
+ <syllable source="stätt" type="0" target="штетт"/>
+ <syllable source="stüb" type="0" target="штюб"/>
+ <syllable source="su" type="0" target="зу"/>
+ <syllable source="sue" type="0" target="зю"/>
+ <syllable source="sueve" type="0" target="зюве"/>
+ <syllable source="suh" type="0" target="зу"/>
+ <syllable source="suitbert" type="0" target="світберт"/>
+ <syllable source="suitbert" type="0" target="зютберт"/>
+ <syllable source="sumeten" type="0" target="суметен"/>
+ <syllable source="susann" type="0" target="сузанн"/>
+ <syllable source="suve" type="0" target="зуве"/>
+ <syllable source="sy" type="0" target="зю"/>
+ <syllable source="sybi" type="0" target="сібі"/>
+ <syllable source="sylv" type="0" target="сільв"/>
+ <syllable source="sylve" type="0" target="сільве"/>
+ <syllable source="sylvio" type="0" target="сільвіо"/>
+ <syllable source="sz" type="0" target="с"/>
+ <syllable source="szcz" type="0" target="щ"/>
+ <syllable source="szczy" type="0" target="щи"/>
+ <syllable source="szell" type="0" target="сцель"/>
+ <syllable source="szelle" type="0" target="сцеле"/>
+ <syllable source="sä" type="0" target="зе"/>
+ <syllable source="sächs" type="0" target="зекс"/>
+ <syllable source="säu" type="0" target="зой"/>
+ <syllable source="sö" type="0" target="зе"/>
+ <syllable source="söh" type="0" target="зе"/>
+ <syllable source="sü" type="0" target="зю"/>
+ <syllable source="süh" type="0" target="зю"/>
+ <syllable source="süve" type="0" target="зюве"/>
+ <syllable source="t" type="0" target="т"/>
+ <syllable source="th" type="0" target="т"/>
+ <syllable source="thalsee" type="0" target="тальзее"/>
+ <syllable source="theid" type="0" target="тгайд"/>
+ <syllable source="theil" type="0" target="тайль"/>
+ <syllable source="theile" type="0" target="тайле"/>
+ <syllable source="theili" type="0" target="тайлі"/>
+ <syllable source="theisberg" type="0" target="тайсберґ"/>
+ <syllable source="theißen" type="0" target="тайссен"/>
+ <syllable source="thelf" type="0" target="тгельф"/>
+ <syllable source="thenne" type="0" target="тенне"/>
+ <syllable source="theresia" type="0" target="терезія"/>
+ <syllable source="theresien" type="0" target="терезієн"/>
+ <syllable source="thier" type="0" target="тір"/>
+ <syllable source="thilf" type="0" target="тгільф"/>
+ <syllable source="thje" type="0" target="тьє"/>
+ <syllable source="thold" type="0" target="тгольд"/>
+ <syllable source="thorsten" type="0" target="торстен"/>
+ <syllable source="tja" type="0" target="т'я"/>
+ <syllable source="tjah" type="0" target="к"/>
+ <syllable source="tje" type="0" target="т'є"/>
+ <syllable source="torf" type="0" target="торф"/>
+ <syllable source="treia" type="0" target="трая"/>
+ <syllable source="tröstau" type="0" target="трестау"/>
+ <syllable source="tsch" type="0" target="ч"/>
+ <syllable source="tschake" type="0" target="чаке"/>
+ <syllable source="tschart" type="0" target="чарт"/>
+ <syllable source="tscherr" type="0" target="черр"/>
+ <syllable source="tschi" type="0" target="чі"/>
+ <syllable source="tsum" type="0" target="тсум"/>
+ <syllable source="tyr" type="0" target="тюр"/>
+ <syllable source="tzb" type="0" target="цб"/>
+ <syllable source="tzbach" type="0" target="цбах"/>
+ <syllable source="tzch" type="0" target="цх"/>
+ <syllable source="tzdorf" type="0" target="цдорф"/>
+ <syllable source="tzf" type="0" target="цф"/>
+ <syllable source="tzg" type="0" target="цґ"/>
+ <syllable source="tzh" type="0" target="цг"/>
+ <syllable source="tzhausen" type="0" target="цгаузен"/>
+ <syllable source="tzheim" type="0" target="цгайм"/>
+ <syllable source="tzhofen" type="0" target="цгофен"/>
+ <syllable source="tzhorn" type="0" target="цгорн"/>
+ <syllable source="tzhusen" type="0" target="цгузен"/>
+ <syllable source="tzhütte" type="0" target="цгютте"/>
+ <syllable source="tzk" type="0" target="цк"/>
+ <syllable source="tzl" type="0" target="цл"/>
+ <syllable source="tzlei" type="0" target="цляй"/>
+ <syllable source="tzm" type="0" target="цм"/>
+ <syllable source="tzn" type="0" target="цн"/>
+ <syllable source="tzp" type="0" target="цп"/>
+ <syllable source="tzqu" type="0" target="цкв"/>
+ <syllable source="tzr" type="0" target="цр"/>
+ <syllable source="tzsch" type="0" target="ч"/>
+ <syllable source="tzsee" type="0" target="цзее"/>
+ <syllable source="tzstadt" type="0" target="цштадт"/>
+ <syllable source="tzstedt" type="0" target="цштедт"/>
+ <syllable source="tzstein" type="0" target="цштайн"/>
+ <syllable source="tzt" type="0" target="цт"/>
+ <syllable source="tzw" type="0" target="цв"/>
+ <syllable source="tz" type="2" target="ц"/>
+ <syllable source="u" type="0" target="у"/>
+ <syllable source="ue" type="0" target="ю"/>
+ <syllable source="ueh" type="0" target="ю"/>
+ <syllable source="ueve" type="0" target="юве"/>
+ <syllable source="uh" type="0" target="у"/>
+ <syllable source="uha" type="0" target="уга"/>
+ <syllable source="uhi" type="0" target="угі"/>
+ <syllable source="ui" type="0" target="ю"/>
+ <syllable source="ulrichstein" type="0" target="ульріхштайн"/>
+ <syllable source="unstrut" type="0" target="унштрут"/>
+ <syllable source="unter" type="0" target="унтер"/>
+ <syllable source="uphuse" type="0" target="упгузе"/>
+ <syllable source="uphusum" type="0" target="упгузум"/>
+ <syllable source="uve" type="0" target="уве"/>
+ <syllable source="uy" type="0" target="ю"/>
+ <syllable source="v" type="0" target="ф"/>
+ <syllable source="va" type="0" target="ва"/>
+ <syllable source="vaa" type="0" target="фаа"/>
+ <syllable source="vach" type="0" target="фах"/>
+ <syllable source="vagt" type="0" target="фаґт"/>
+ <syllable source="valley" type="0" target="фалляй"/>
+ <syllable source="valluhn" type="0" target="фаллун"/>
+ <syllable source="vandans" type="0" target="фанданс"/>
+ <syllable source="varch" type="0" target="фарх"/>
+ <syllable source="vasold" type="0" target="фазольд"/>
+ <syllable source="vater" type="0" target="фатер"/>
+ <syllable source="venedig" type="0" target="венедіґ"/>
+ <syllable source="vent" type="0" target="вент"/>
+ <syllable source="venth" type="0" target="вент"/>
+ <syllable source="ventsch" type="0" target="фенч"/>
+ <syllable source="vics" type="0" target="віч"/>
+ <syllable source="vielbach" type="0" target="фільбах"/>
+ <syllable source="vier" type="0" target="фір"/>
+ <syllable source="viertel" type="0" target="фіртель"/>
+ <syllable source="viertl" type="0" target="фіртль"/>
+ <syllable source="viktor" type="0" target="віктор"/>
+ <syllable source="ville" type="2" target="віль"/>
+ <syllable source="villgraten" type="0" target="фільґратен"/>
+ <syllable source="vilsalp" type="0" target="фільсальп"/>
+ <syllable source="visp" type="0" target="вішп"/>
+ <syllable source="vitz" type="0" target="віц"/>
+ <syllable source="vitze" type="0" target="вітце"/>
+ <syllable source="vitzo" type="0" target="вітцо"/>
+ <syllable source="vius" type="0" target="віус"/>
+ <syllable source="viz" type="0" target="віц"/>
+ <syllable source="viöl" type="0" target="в'єль"/>
+ <syllable source="vluyn" type="0" target="флюн"/>
+ <syllable source="voigt" type="0" target="фоґт"/>
+ <syllable source="voitsau" type="0" target="фойтсау"/>
+ <syllable source="vor" type="0" target="фор"/>
+ <syllable source="vorst" type="0" target="форст"/>
+ <syllable source="vö" type="0" target="фе"/>
+ <syllable source="w" type="0" target="в"/>
+ <syllable source="wanzkaer" type="0" target="ванцкаер"/>
+ <syllable source="wehe" type="0" target="веге"/>
+ <syllable source="wehi" type="0" target="вегі"/>
+ <syllable source="weistrach" type="0" target="вайстрах"/>
+ <syllable source="wellier" type="0" target="веллієр"/>
+ <syllable source="westau" type="0" target="вестау"/>
+ <syllable source="western" type="0" target="вестерн"/>
+ <syllable source="witzhave" type="0" target="віцгафе"/>
+ <syllable source="wyhlen" type="0" target="вюлен"/>
+ <syllable source="x" type="0" target="кс"/>
+ <syllable source="y" type="0" target="і"/>
+ <syllable source="ylv" type="0" target="ільв"/>
+ <syllable source="yngv" type="0" target="інґв"/>
+ <syllable source="yvo" type="0" target="іво"/>
+ <syllable source="z" type="0" target="ц"/>
+ <syllable source="zehenthöf" type="0" target="цегентгеф"/>
+ <syllable source="zsch" type="0" target="ч"/>
+ <syllable source="zschake" type="0" target="чаке"/>
+ <syllable source="zschor" type="0" target="чор"/>
+ <syllable source="zy" type="0" target="ці"/>
+ <syllable source="cham" type="1" target="кам"/>
+ <syllable source="chiem" type="1" target="кім"/>
+ <syllable source="chor" type="1" target="кор"/>
+ <syllable source="py" type="1" target="пю"/>
+ <syllable source="rh" type="1" target="р"/>
+ <syllable source="rheide" type="1" target="райде"/>
+ <syllable source="segg" type="1" target="зеґґ"/>
+ <syllable source="sp" type="1" target="шп"/>
+ <syllable source="st" type="1" target="шт"/>
+ <syllable source="strohecker" type="1" target="штрогекер"/>
+ <syllable source="stroheker" type="1" target="штрогекер"/>
+ <syllable source="sve" type="1" target="све"/>
+ <syllable source="thain" type="1" target="тайн"/>
+ <syllable source="theis" type="1" target="tайс"/>
+ <syllable source="theiß" type="1" target="тайс"/>
+ <syllable source="thorn" type="1" target="торн"/>
+ <syllable source="thyr" type="1" target="тюр"/>
+ <syllable source="tschier" type="1" target="чір"/>
+ <syllable source="ue" type="1" target="у"/>
+ <syllable source="ueh" type="1" target="у"/>
+ <syllable source="ui" type="1" target="у"/>
+ <syllable source="uih" type="1" target="у"/>
+ <syllable source="vitz" type="1" target="фіц"/>
+ <syllable source="ü" type="1" target="у"/>
+ <syllable source="üh" type="1" target="у"/>
+ <syllable source="ß" type="0" target="сс"/>
+ <syllable source="à" type="0" target="а"/>
+ <syllable source="á" type="0" target="а"/>
+ <syllable source="ä" type="0" target="е"/>
+ <syllable source="äh" type="0" target="е"/>
+ <syllable source="äu" type="0" target="ой"/>
+ <syllable source="äue" type="0" target="оє"/>
+ <syllable source="äve" type="0" target="еве"/>
+ <syllable source="è" type="0" target="е"/>
+ <syllable source="é" type="0" target="е"/>
+ <syllable source="ée" type="0" target="е"/>
+ <syllable source="ë" type="0" target="е"/>
+ <syllable source="î" type="0" target="і"/>
+ <syllable source="ï" type="0" target="ї"/>
+ <syllable source="ó" type="0" target="о"/>
+ <syllable source="ö" type="0" target="е"/>
+ <syllable source="öh" type="0" target="е"/>
+ <syllable source="öi" type="0" target="еї"/>
+ <syllable source="östri" type="0" target="естрі"/>
+ <syllable source="öve" type="0" target="еве"/>
+ <syllable source="ü" type="0" target="ю"/>
+ <syllable source="üh" type="0" target="ю"/>
+ <syllable source="üve" type="0" target="юве"/>
+ <syllable source="ć" type="0" target="ч"/>
+ <syllable source="č" type="0" target="ч"/>
+ <syllable source="ě" type="0" target="е"/>
+ <syllable source="š" type="0" target="ш"/>
+ <exception source="Severin" target="Северін"/>
+ <exception source="Abraham" target="Абрагам"/>
+ <exception source="Aengenesch" target="Анґенеш"/>
+ <exception source="Aerbeck" target="Арбек"/>
+ <exception source="Alboin" target="Альбоїн"/>
+ <exception source="Albuin" target="Альбуїн"/>
+ <exception source="Alice" target="Аліс"/>
+ <exception source="Alkuin" target="Алькуїн"/>
+ <exception source="Alois" target="Алоїс"/>
+ <exception source="Aloisia" target="Алоїзія"/>
+ <exception source="Aloys" target="Алоїс"/>
+ <exception source="Aloysia" target="Алоїзія"/>
+ <exception source="Alpsray" target="Альпсра"/>
+ <exception source="Alte Donau" target="Альте Донау"/>
+ <exception source="Altmyhl" target="Альтміль"/>
+ <exception source="Amadeus" target="Амадеус"/>
+ <exception source="Anja" target="Аня"/>
+ <exception source="Anstois" target="Анштос"/>
+ <exception source="Ansverus" target="Ансверус"/>
+ <exception source="Archibald" target="Арчібальд"/>
+ <exception source="Asverus" target="Асверус"/>
+ <exception source="Auber" target="Обер"/>
+ <exception source="Aubert" target="Обер"/>
+ <exception source="Baerl" target="Барль"/>
+ <exception source="Baersdonk" target="Берсдонк"/>
+ <exception source="Baesweiler" target="Басвайлер"/>
+ <exception source="Balduin" target="Бальдуїн"/>
+ <exception source="Balduinstein" target="Бальдуїнштайн"/>
+ <exception source="Baltazar" target="Бальтазар"/>
+ <exception source="Balthazar" target="Бальтазар"/>
+ <exception source="Barby" target="Барбі"/>
+ <exception source="Bartholomaeus" target="Бартоломеус"/>
+ <exception source="Bartholomäus" target="Бартоломеус"/>
+ <exception source="Behymer" target="Бегімер"/>
+ <exception source="Benedikt" target="Бенедикт"/>
+ <exception source="Benvenuti" target="Бенвенуті"/>
+ <exception source="Bergdietikon" target="Берґдієтікон"/>
+ <exception source="Bernoulli" target="Бернуллі"/>
+ <exception source="Beuys" target="Бойс"/>
+ <exception source="Bialas" target="Б'ялас"/>
+ <exception source="Bianca" target="Б'янка"/>
+ <exception source="Blaha" target="Блага"/>
+ <exception source="Blasien" target="Блазієн"/>
+ <exception source="Blaue Donau" target="Бляуе Донау"/>
+ <exception source="Bleialf" target="Бляйальф"/>
+ <exception source="Bloem" target="Блом"/>
+ <exception source="Bochum-Laer" target="Бохум-Лер"/>
+ <exception source="Boeckelt" target="Букельт"/>
+ <exception source="Boer" target="Бур"/>
+ <exception source="Boes" target="Бус"/>
+ <exception source="Boetzelaer" target="Бутцелар"/>
+ <exception source="Bois" target="Буа"/>
+ <exception source="Boisdorf" target="Босдорф"/>
+ <exception source="Boisdorfer" target="Босдорфер"/>
+ <exception source="Boisheim" target="Босгайм"/>
+ <exception source="Borromäus" target="Борромеус"/>
+ <exception source="Bourheim" target="Бургайм"/>
+ <exception source="Bourquain" target="Буркен"/>
+ <exception source="Bous" target="Бус"/>
+ <exception source="Brienner" target="Брієннер"/>
+ <exception source="Bruchsal" target="Брухзаль"/>
+ <exception source="Bruyn" target="Бройн"/>
+ <exception source="Brüel" target="Брюль"/>
+ <exception source="Buchloe" target="Бухлое"/>
+ <exception source="Buensen" target="Бунзен"/>
+ <exception source="Buer" target="Бур"/>
+ <exception source="Buin" target="Буїн"/>
+ <exception source="Buisdorf" target="Бусдорф"/>
+ <exception source="Buydens" target="Байденс"/>
+ <exception source="Böhen" target="Беген"/>
+ <exception source="Caemmerer" target="Кеммерер"/>
+ <exception source="Caetano" target="Каетано"/>
+ <exception source="Cesti" target="Честі"/>
+ <exception source="Chamisso" target="Шаміссо"/>
+ <exception source="Charles" target="Чарльз"/>
+ <exception source="Charlie" target="Чарлі"/>
+ <exception source="Charly" target="Чарлі"/>
+ <exception source="Chezy" target="Шезі"/>
+ <exception source="Chrysostomus" target="Хризостомус"/>
+ <exception source="Chézy" target="Шезі"/>
+ <exception source="Claer" target="Клер"/>
+ <exception source="Claes" target="Клаас"/>
+ <exception source="Claire" target="Клер"/>
+ <exception source="Claudia" target="Клавдія"/>
+ <exception source="Coesfeld" target="Косфельд"/>
+ <exception source="Coubier" target="Куб'є"/>
+ <exception source="Cuypers" target="Койперс"/>
+ <exception source="Cvet" target="Цвет"/>
+ <exception source="Cziffra" target="Ціфра"/>
+ <exception source="Czygan" target="Чиґан"/>
+ <exception source="Cämmerer" target="Кеммерер"/>
+ <exception source="Cäthe" target="Кете"/>
+ <exception source="Daem" target="Дам"/>
+ <exception source="Daems" target="Дамс"/>
+ <exception source="Dagny" target="Даґні"/>
+ <exception source="Daniel" target="Даніель"/>
+ <exception source="Daniela" target="Даніела"/>
+ <exception source="Daym" target="Дам"/>
+ <exception source="Dehio" target="Дегіо"/>
+ <exception source="Diespeck" target="Діспек"/>
+ <exception source="Dietikon" target="Дієтікон"/>
+ <exception source="Dietlikon" target="Дієтлікон"/>
+ <exception source="Diex" target="Дієкс"/>
+ <exception source="Dirichlet" target="Дірікле (Дірішле)"/>
+ <exception source="Drau" target="Драва"/>
+ <exception source="Drave" target="Драва"/>
+ <exception source="Drei" target="Драй"/>
+ <exception source="Dresden" target="Дрезден"/>
+ <exception source="Duingen" target="Дуїнґен"/>
+ <exception source="Duysen" target="Дойзен"/>
+ <exception source="Düe" target="Дю"/>
+ <exception source="Efraim" target="Ефраїм"/>
+ <exception source="Ehingen" target="Егінґен"/>
+ <exception source="Elbe" target="Ельба"/>
+ <exception source="Elbe-" target="Ельбе-"/>
+ <exception source="Eleazar" target="Елеазар"/>
+ <exception source="Eltville" target="Ельтвілле"/>
+ <exception source="Elvira" target="Ельвіра"/>
+ <exception source="Emanuel" target="Емануель"/>
+ <exception source="Ephraim" target="Ефраїм"/>
+ <exception source="Euphemia" target="Євфемія"/>
+ <exception source="Eversael" target="Еверзаль"/>
+ <exception source="Eveslage" target="Евеслаґе"/>
+ <exception source="Evilard" target="Евілар"/>
+ <exception source="Eving" target="Евінґ"/>
+ <exception source="Fabjan" target="Фаб'ян"/>
+ <exception source="Fatah" target="Фатах"/>
+ <exception source="Fiesch" target="Ф'єш"/>
+ <exception source="Fieschertal" target="Ф'єшерталь"/>
+ <exception source="Flaesheim" target="Фласгайм"/>
+ <exception source="Floisdorf" target="Флосдорф"/>
+ <exception source="Flöha" target="Флега"/>
+ <exception source="François" target="Франсуа"/>
+ <exception source="Freiherr" target="барон"/>
+ <exception source="Friszke" target="Фрішке"/>
+ <exception source="Froitscheidt" target="Фротшайдт"/>
+ <exception source="Froitzheim" target="Фроцгайм"/>
+ <exception source="Fuest" target="Фуст"/>
+ <exception source="Gaesdonck" target="Ґасдонк"/>
+ <exception source="Gaethke" target="Ґатке"/>
+ <exception source="Gallizien" target="Ґалліцієн"/>
+ <exception source="Gavriel" target="Ґавріель"/>
+ <exception source="Gavriêl" target="Ґавріель"/>
+ <exception source="Geisau" target="Ґайзау"/>
+ <exception source="Genf" target="Женева"/>
+ <exception source="Giordano" target="Джордано"/>
+ <exception source="Giulia" target="Джулія"/>
+ <exception source="Giulio" target="Джуліо"/>
+ <exception source="Glavinic" target="Ґлавініч"/>
+ <exception source="Gloy" target="Ґлой"/>
+ <exception source="Goes" target="Ґос"/>
+ <exception source="Gollub" target="Ґоллюб"/>
+ <exception source="Graen" target="Ґран"/>
+ <exception source="Groethuysen" target="Ґротгойзен"/>
+ <exception source="Groin" target="Ґрон"/>
+ <exception source="Grosz" target="Ґросс"/>
+ <exception source="Grouven" target="Ґрувен"/>
+ <exception source="Gruyter" target="Ґройтер"/>
+ <exception source="Grzimek" target="Ґржимек"/>
+ <exception source="Gschriet" target="Ґшрієт"/>
+ <exception source="György" target="Дьордь"/>
+ <exception source="Géza" target="Ґеза"/>
+ <exception source="Göttsche" target="Ґеттше"/>
+ <exception source="Heinigke" target="Гайніке"/>
+ <exception source="Henriette" target="Генрієтте"/>
+ <exception source="Hieronymus" target="Гієронімус"/>
+ <exception source="Hjalmar" target="Гальмар"/>
+ <exception source="Hoekstra" target="Гекстра"/>
+ <exception source="Hoetmar" target="Готмар"/>
+ <exception source="Hoigt" target="Гоґт"/>
+ <exception source="Houverath" target="Гуверат"/>
+ <exception source="Hue" target="Гу"/>
+ <exception source="Hueber" target="Гуебер"/>
+ <exception source="Hueck" target="Гук"/>
+ <exception source="Huesch" target="Гуш"/>
+ <exception source="Huessy" target="Гюссі"/>
+ <exception source="Hugenpoet" target="Гуґенпот"/>
+ <exception source="Huybrechts" target="Гойбрехтс"/>
+ <exception source="Huyn" target="Гойн"/>
+ <exception source="Huys" target="Гойс"/>
+ <exception source="Huyssen" target="Гойссен"/>
+ <exception source="Ingenray" target="Інґенра"/>
+ <exception source="Isau" target="Ізау"/>
+ <exception source="Isenkroidt" target="Ізенкродт"/>
+ <exception source="Itzehoe" target="Ітцего"/>
+ <exception source="Iván" target="Іван"/>
+ <exception source="Jacques" target="Жак"/>
+ <exception source="Jael" target="Яель"/>
+ <exception source="Jakov" target="Яков"/>
+ <exception source="Jayne" target="Джейн"/>
+ <exception source="Jean" target="Жан"/>
+ <exception source="Jehoschua" target="Єгошуа"/>
+ <exception source="Jerrishoe" target="Єррісго"/>
+ <exception source="Jever" target="Єфер (Євер)"/>
+ <exception source="Joe" target="Джо"/>
+ <exception source="Joel" target="Йоель"/>
+ <exception source="Joerg" target="Йорґ"/>
+ <exception source="John" target="Джон"/>
+ <exception source="Joshua" target="Йошуа"/>
+ <exception source="José" target="Хосе"/>
+ <exception source="Joël" target="Йоель"/>
+ <exception source="Juist" target="Юст"/>
+ <exception source="Kaiskorb" target="Каскорб"/>
+ <exception source="Karasek" target="Карасек"/>
+ <exception source="Karel" target="Карел"/>
+ <exception source="Katja" target="Катя"/>
+ <exception source="Kazimir" target="Казимир"/>
+ <exception source="Kirchtroisdorf" target="Кірхтросдорф"/>
+ <exception source="Klaer" target="Клер"/>
+ <exception source="Kleine Donau" target="Кляйне Донау"/>
+ <exception source="Koesfeld" target="Косфельд"/>
+ <exception source="Koisdorf" target="Косдорф"/>
+ <exception source="Kotzebue" target="Котцебу"/>
+ <exception source="Kreher" target="Крегер"/>
+ <exception source="Kuyper" target="Койпер"/>
+ <exception source="Kyritz" target="Кюріц"/>
+ <exception source="Kärnten" target="Каринтія"/>
+ <exception source="L'Arronge" target="Л'Арронж"/>
+ <exception source="La Roche" target="Ла Рош"/>
+ <exception source="Lafontaine" target="Лафонтен"/>
+ <exception source="Lansburgh" target="Лансбурґ"/>
+ <exception source="Lascaux" target="Ласко"/>
+ <exception source="Lassein" target="Лассайн"/>
+ <exception source="Laurentius" target="Лаурентіус"/>
+ <exception source="Lavant" target="Лавант"/>
+ <exception source="Lazar" target="Лазар"/>
+ <exception source="Lehár" target="Легар"/>
+ <exception source="Lejeune" target="Лежен"/>
+ <exception source="Levy" target="Леві"/>
+ <exception source="Lienz" target="Лієнц"/>
+ <exception source="Lieschen" target="Лісхен"/>
+ <exception source="Lilian" target="Ліліан"/>
+ <exception source="Loe" target="Ло"/>
+ <exception source="Lohan" target="Логан"/>
+ <exception source="Lohenstein" target="Логенштайн"/>
+ <exception source="Loher" target="Логер"/>
+ <exception source="Lohsa" target="Лоса"/>
+ <exception source="Loitz" target="Лец"/>
+ <exception source="Longuich" target="Лонґіш"/>
+ <exception source="Louis" target="Луї"/>
+ <exception source="Louise" target="Луїзе"/>
+ <exception source="Loveresse" target="Ловрес"/>
+ <exception source="Loyenhof" target="Лоенгоф"/>
+ <exception source="Lucas" target="Лукас"/>
+ <exception source="Lucian" target="Люціан"/>
+ <exception source="Lucie" target="Люсі"/>
+ <exception source="Lucy" target="Люсі"/>
+ <exception source="Ludovic" target="Людовік"/>
+ <exception source="Luise" target="Луїзе"/>
+ <exception source="Lujo" target="Луйо"/>
+ <exception source="Lukas" target="Лукас"/>
+ <exception source="Luy" target="Люй"/>
+ <exception source="Luybl" target="Льойбль"/>
+ <exception source="Luyken" target="Льойкен"/>
+ <exception source="Lychen" target="Люхен"/>
+ <exception source="László" target="Ласло"/>
+ <exception source="Manja" target="Маня"/>
+ <exception source="Marcel" target="Марсель"/>
+ <exception source="Matheis" target="Матайс"/>
+ <exception source="Mattheis" target="Маттайс"/>
+ <exception source="Mattheiß" target="Маттайсс"/>
+ <exception source="Matthias" target="Маттіас"/>
+ <exception source="Matthäus" target="Маттеус"/>
+ <exception source="Maurice" target="Моріс"/>
+ <exception source="Maxime" target="Максім"/>
+ <exception source="Mendelssohn" target="Мендельсон"/>
+ <exception source="Meurs" target="Мерс"/>
+ <exception source="Micaela" target="Мікаела"/>
+ <exception source="Michelm" target="Міхельм"/>
+ <exception source="Miguel" target="Міґель"/>
+ <exception source="Moitzfeld" target="Моцфельд"/>
+ <exception source="Moldau" target="Влтава"/>
+ <exception source="Montjoie" target="Моншау"/>
+ <exception source="Muscat" target="Мускат"/>
+ <exception source="Muys" target="Мойс"/>
+ <exception source="Myhl" target="Міль"/>
+ <exception source="Müstair" target="Мюштайр"/>
+ <exception source="Nahe" target="Нае"/>
+ <exception source="Neher" target="Негер"/>
+ <exception source="Neuy" target="Ной"/>
+ <exception source="Nicholas" target="Ніколас"/>
+ <exception source="Nicole" target="Ніколь"/>
+ <exception source="Niendorf a. d. St." target="Ніндорф ан дер Штекніц"/>
+ <exception source="Nietzsche" target="Ніцше"/>
+ <exception source="Nieukerk" target="Нойкерк"/>
+ <exception source="Noemi" target="Ноемі"/>
+ <exception source="Nohe" target="Ноге"/>
+ <exception source="Noithausen" target="Нотгаузен"/>
+ <exception source="Northild" target="Нортгільд"/>
+ <exception source="Noviand" target="Новіанд"/>
+ <exception source="Noyshof" target="Носгоф"/>
+ <exception source="Oberlienz" target="Оберлієнц"/>
+ <exception source="Oer-Erkenschwick" target="Ор-Еркеншвік"/>
+ <exception source="Oestrich" target="Естріх"/>
+ <exception source="Oidtweiler" target="Одтвайлер"/>
+ <exception source="Oirlich" target="Орліх"/>
+ <exception source="Oldesloe" target="Ольдесло"/>
+ <exception source="Oliv" target="Олів"/>
+ <exception source="Op de Moelensteen" target="Оп де Моленстеен"/>
+ <exception source="Orsoy" target="Орсау"/>
+ <exception source="Ottonie" target="Оттоніє"/>
+ <exception source="Ouboter" target="Ауботер"/>
+ <exception source="Oybaum" target="Аубаум"/>
+ <exception source="Oye" target="Ауе"/>
+ <exception source="Perouse" target="Пероз"/>
+ <exception source="Petschauer" target="Печауер"/>
+ <exception source="Pierre" target="П'єр"/>
+ <exception source="Piëch" target="Пієх"/>
+ <exception source="Ploigt" target="Плоґт"/>
+ <exception source="Poelyck" target="Пульк"/>
+ <exception source="Pouch" target="Пох"/>
+ <exception source="Praest" target="Праст"/>
+ <exception source="Pruys" target="Пройс"/>
+ <exception source="Puy" target="Пюї"/>
+ <exception source="Raeren" target="Рарен"/>
+ <exception source="Raesfeld" target="Расфельд"/>
+ <exception source="Raestrup" target="Раструп"/>
+ <exception source="Raoul" target="Рауль"/>
+ <exception source="Raphael" target="Рафаель"/>
+ <exception source="Rayen" target="Раен"/>
+ <exception source="Rebecca" target="Ребекка"/>
+ <exception source="Rheurdt" target="Рердт"/>
+ <exception source="Rhone" target="Рона"/>
+ <exception source="Riehen" target="Ріген"/>
+ <exception source="Rittham" target="Ріттгам"/>
+ <exception source="Roches" target="Рош"/>
+ <exception source="Roeck" target="Рок"/>
+ <exception source="Roer" target="Рур"/>
+ <exception source="Roerbrücke" target="Рурбрюке"/>
+ <exception source="Roeren" target="Рурен"/>
+ <exception source="Roers" target="Рурс"/>
+ <exception source="Roisdorf" target="Росдорф"/>
+ <exception source="Roitham" target="Ройтгам"/>
+ <exception source="Rostock" target="Росток"/>
+ <exception source="Rouven" target="Рувен"/>
+ <exception source="Ruetz" target="Руец"/>
+ <exception source="Ruyken" target="Ройкен"/>
+ <exception source="Ruyter" target="Ройтер"/>
+ <exception source="Ruzicka" target="Ружічка"/>
+ <exception source="Saara" target="Заара"/>
+ <exception source="Saarow" target="Зааров"/>
+ <exception source="Saarwellingen" target="Заарвеллінґен"/>
+ <exception source="Saeffelen" target="Заффелен"/>
+ <exception source="Saelhuysen" target="Зальгюзен"/>
+ <exception source="Saerbeck" target="Зарбек"/>
+ <exception source="Saint-Georges" target="Сен-Жорж"/>
+ <exception source="Saliha" target="Саліга"/>
+ <exception source="Samuel" target="Самуель"/>
+ <exception source="Sancta" target="Санкта"/>
+ <exception source="Sankt" target="Санкт"/>
+ <exception source="Sara" target="Сара"/>
+ <exception source="Sarah" target="Сара"/>
+ <exception source="Sascha" target="Саша"/>
+ <exception source="Saskia" target="Саскія"/>
+ <exception source="Schaephuysen" target="Шапгюзен"/>
+ <exception source="Schiers" target="Шієрс"/>
+ <exception source="Schleswig" target="Шлезвіґ"/>
+ <exception source="Schluensee" target="Шлюензеє"/>
+ <exception source="Schoenmakers" target="Шонмакерс"/>
+ <exception source="Schuy" target="Шуй"/>
+ <exception source="Schwaer" target="Швар"/>
+ <exception source="Sebastian" target="Себастіан"/>
+ <exception source="Seghers" target="Зеґерс"/>
+ <exception source="Sherko" target="Шерко"/>
+ <exception source="Shmueli" target="Шмуелі"/>
+ <exception source="Sietske" target="Зіцке"/>
+ <exception source="Siget" target="Сіґет"/>
+ <exception source="Sigleß" target="Сіґлесс"/>
+ <exception source="Silvius" target="Сільвіус"/>
+ <exception source="Silvère" target="Сільвер"/>
+ <exception source="Sissi" target="Сіссі"/>
+ <exception source="Slatan" target="Златан"/>
+ <exception source="Slezak" target="Слезак"/>
+ <exception source="Sloterdijk" target="Слотердайк"/>
+ <exception source="Soest" target="Зост"/>
+ <exception source="Sofia" target="Софія"/>
+ <exception source="Solveig" target="Сольвейґ"/>
+ <exception source="Soma" target="Сома"/>
+ <exception source="Sonja" target="Соня"/>
+ <exception source="Sophia" target="Софія"/>
+ <exception source="Sophie" target="Софі"/>
+ <exception source="Spanier" target="Шпанієр"/>
+ <exception source="Sparrieshoop" target="Спаррієсгооп"/>
+ <exception source="Spiez" target="Шпієц"/>
+ <exception source="St." target="Санкт"/>
+ <exception source="Sten" target="Стен"/>
+ <exception source="Straelen" target="Штрален"/>
+ <exception source="Straeten" target="Штратен"/>
+ <exception source="Suerhop" target="Зургоп"/>
+ <exception source="Suetschach" target="Свечах"/>
+ <exception source="Suire" target="Свір"/>
+ <exception source="Suitger" target="Світґер"/>
+ <exception source="Suitner" target="Зуйтнер"/>
+ <exception source="Syke" target="Зіке"/>
+ <exception source="Sylvain" target="Сільвен"/>
+ <exception source="Sylvius" target="Сільвіус"/>
+ <exception source="Sytske" target="Зіцке"/>
+ <exception source="Szabo" target="Сабо"/>
+ <exception source="Szameit" target="Шамайт"/>
+ <exception source="Szenessy" target="Сенессі"/>
+ <exception source="Szeps" target="Шепс"/>
+ <exception source="Szillat" target="Сіллат"/>
+ <exception source="Szymanski" target="Шиманскі"/>
+ <exception source="Szyszkowitz" target="Шишковіц"/>
+ <exception source="Tanja" target="Таня"/>
+ <exception source="Tarouca" target="Тарока"/>
+ <exception source="Tenhaef" target="Тенгаф"/>
+ <exception source="Thayngen" target="Таїнґен"/>
+ <exception source="Timotheus" target="Тімотеус"/>
+ <exception source="Trient" target="Трієнт"/>
+ <exception source="Troisdorf" target="Тросдорф"/>
+ <exception source="Troistedt" target="Троштедт"/>
+ <exception source="Tsangaris" target="Цанґаріс"/>
+ <exception source="Tschiertschen" target="Чієрчен"/>
+ <exception source="Tschierva" target="Чієрва"/>
+ <exception source="Uezwil" target="Уецвіль"/>
+ <exception source="Vaensen" target="Фанзен"/>
+ <exception source="Vaihingen" target="Файгінґен"/>
+ <exception source="Vallendar" target="Фаллендар"/>
+ <exception source="Vanja" target="Ваня"/>
+ <exception source="Varel" target="Фарель"/>
+ <exception source="Vasel" target="Фазель"/>
+ <exception source="Vatter" target="Фаттер"/>
+ <exception source="Vaupel" target="Фаупель"/>
+ <exception source="Vera" target="Вера"/>
+ <exception source="Verena" target="Верена"/>
+ <exception source="Veronika" target="Вероніка"/>
+ <exception source="Vibeke" target="Вібеке"/>
+ <exception source="Vicky" target="Вікі"/>
+ <exception source="Victor" target="Віктор"/>
+ <exception source="Vietor" target="Вієтор"/>
+ <exception source="Vilma" target="Вільма"/>
+ <exception source="Vincent" target="Вінцент"/>
+ <exception source="Vincenz" target="Вінценц"/>
+ <exception source="Vinzenz" target="Вінценц"/>
+ <exception source="Viëtor" target="Вієтор"/>
+ <exception source="Vlad" target="Влад"/>
+ <exception source="Vohen" target="Фоген"/>
+ <exception source="Voiswinkel" target="Фосвінкель"/>
+ <exception source="Voißel" target="Фоссель"/>
+ <exception source="Wanja" target="Ваня"/>
+ <exception source="Weeze" target="Веезе"/>
+ <exception source="Wiehe" target="Віге"/>
+ <exception source="Wilhelmj" target="Вільгельмі"/>
+ <exception source="William" target="Вільям"/>
+ <exception source="Williard" target="Вільярд"/>
+ <exception source="Wyhl" target="Віль"/>
+ <exception source="Yaak" target="Як"/>
+ <exception source="Yaakov" target="Яков"/>
+ <exception source="Yael" target="Яель"/>
+ <exception source="Yella" target="Єлла"/>
+ <exception source="Yves" target="Ів"/>
+ <exception source="Yvonne" target=" Івонн"/>
+ <exception source="Zavel" target="Цафель"/>
+ <exception source="Zeven" target="Цефен"/>
+ <exception source="Ziesar" target="Цієзар"/>
+ <exception source="Zsuzsa" target="Жужа"/>
+ <exception source="Zuydtwyck" target="Зюдтвік"/>
+ <exception source="a. Berge" target="ам Берґе"/>
+ <exception source="a. d." target="ан дер"/>
+ <exception source="a.d." target="ан дер"/>
+ <exception source="a. Darß" target="ауф дем Дарсс"/>
+ <exception source="a. Herzberg" target="ам Герцберґ"/>
+ <exception source="a. d. Eigen" target="ауф дем Айґен"/>
+ <exception source="a.M." target="ам Мангартсберґ"/>
+ <exception source="a.d.Laaber" target="ан дер Лаабер"/>
+ <exception source="b." target="бай"/>
+ <exception source="der Jüngere" target="молодший"/>
+ <exception source="der Ältere" target="старший"/>
+ <exception source="du Faur" target="дю Фор"/>
+ <exception source="i. Odw." target="ім Оденвальд"/>
+ <exception source="i. Sa." target="ін Заксен"/>
+ <exception source="junior" target="молодший"/>
+ <exception source="senior" target="старший"/>
+ <exception source="v. d. Hainich" target="фор дем Гайніх"/>
+ <exception source="v. d. Höhe" target="фор дер Гое"/>
+ <exception source="v.d. Höhe" target="фор дер Гое"/>
+ <exception source="Émilie" target="Емілі"/>
+ <exception source="Üechtland" target="Юхтланд"/>
+</language_pair>

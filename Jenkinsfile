@@ -1,6 +1,6 @@
 pipeline{
 
-        agent { label 'docker' }
+        agent { label 'transliterator-backend-agent' }
 
         environment {
                 DOCKERHUB_CREDENTIALS=credentials('dockerhub-markdurkot')

@@ -25,7 +25,7 @@ pipeline{
                 stage('Push') {
 
                         steps {
-                                sh 'docker push markdurkot/transliterator-backend:latest
+                                sh 'docker push markdurkot/transliterator-backend:latest'
 :latest'
                         }
                 }

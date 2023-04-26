@@ -11,7 +11,7 @@ pipeline{
                 stage('Build') {
 
                         steps {
-                                sh 'docker build -t transliterator/transliterator-backend:latest .'
+                                sh 'docker build -t markdurkot/transliterator-backend:latest .'
                         }
                 }
 
@@ -25,7 +25,8 @@ pipeline{
                 stage('Push') {
 
                         steps {
-                                sh 'docker push transliterator/transliterator-backend:latest'
+                                sh 'docker push markdurkot/transliterator-backend:latest
+:latest'
                         }
                 }
         }

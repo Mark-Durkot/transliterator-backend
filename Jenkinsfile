@@ -29,7 +29,6 @@ pipeline {
                                 sh 'ssh -o StrictHostKeyChecking=no -i $BACKEND_KEYS ec2-user@$BACKEND_DNS \'bash -s\' < startup.sh'
                         }
 
-                        }
                 }
         }
 

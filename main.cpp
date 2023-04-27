@@ -5,6 +5,7 @@
 #include "server/httpserver.h"
 
 #include "server/logger/consolelogger.h"
+#include "server/logger/filelogger.h"
 
 #include "transliterator/Transliterators/PinyinUkrainianTransliterator.h"
 #include "transliterator/Transliterators/GermanUkrainianTransliterator.h"
@@ -13,11 +14,12 @@
 #include "transliterator/Transliterators/ScientificUkrainianTransliterator.h"
 
 
+
 int main(int argc, char *argv[])
 {
     QCoreApplication a(argc, argv);
 
-    Logger *logger = new ConsoleLogger();
+    Logger *logger = new FileLogger();
 
     WebSocketServer *webSocketserver = new WebSocketServer(logger);
     webSocketserver->startServer();

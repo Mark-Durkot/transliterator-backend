@@ -12,6 +12,7 @@ SOURCES += \
         main.cpp \
         server/httpserver.cpp \
         server/logger/consolelogger.cpp \
+        server/logger/filelogger.cpp \
         server/transliterationchat.cpp \
         server/transliteratorfactory.cpp \
         server/websocketserver.cpp
@@ -23,6 +24,7 @@ else: unix:!android: target.path = /opt/$${TARGET}/bin
 
 HEADERS += \
     server/httpserver.h \
+    server/logger/filelogger.h \
     server/logger/logger.h \
     server/logger/consolelogger.h \
     server/transliterationchat.h \

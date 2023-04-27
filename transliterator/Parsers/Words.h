@@ -70,6 +70,21 @@ public:
         text = QString("<span style=\"color: %1\">%2</span>").arg(rgb, text);
     }
 
+    QString getTypeString() const
+    {
+        switch (type)
+        {
+            case WordType::NonException:       return "NonException";
+            case WordType::Exception:          return "Exception";
+            case WordType::Incorrect:          return "Incorrect";
+            case WordType::Space:              return "Space";
+            case WordType::Punct:              return "Punct";
+            case WordType::Undefined:          return "Undefined";
+            case WordType::PotentionException: return "PotentialException";
+            default:                           return "NoType";
+        }
+    }
+
 public:
     QString  text;
     WordType type;

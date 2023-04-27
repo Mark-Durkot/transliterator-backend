@@ -41,10 +41,16 @@ HttpServer::HttpServer(Logger *logger, QObject *parent)
                                        QHttpServerResponse::StatusCode::InternalServerError);
         }
 
-        QString result = transliterator->transliterate(inputText).join(' ');
+        auto words = transliterator->transliterate(inputText);
 
-        QJsonObject responseBody;
-        responseBody.insert("outputText", QJsonValue(result));
+        QJsonArray responseBody;
+
+        for (const auto &word : words) {
+            QJsonObject wordObject;
+            wordObject.insert("word", word.text);
+            wordObject.insert("type", word.getTypeString());
+            responseBody.append(wordObject);
+        }
 
         return QHttpServerResponse(responseBody, QHttpServerResponse::StatusCode::Ok);
     });

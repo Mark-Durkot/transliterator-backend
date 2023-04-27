@@ -28,13 +28,23 @@ QWebSocket *TransliterationChat::getSocket() const
     return socket;
 }
 
-void TransliterationChat::messageRecieved(const QString &message)
+void TransliterationChat::messageRecieved(QString message)
 {
-    auto result = transliterator->transliterate(message);
-    auto response = result.join(QChar(' '));
+    message = preProcessMessage(message);
+
+    auto words = transliterator->transliterate(message);
+
+    QJsonArray responseBody;
     QJsonObject responseJson;
-    responseJson.insert("result", QJsonValue(response));
-    socket->sendTextMessage(QJsonDocument(responseJson).toJson());
+
+    for (const auto &word : words) {
+        QJsonObject wordObject;
+        wordObject.insert("word", QJsonValue(word.text));
+        wordObject.insert("type", QJsonValue(word.getTypeString()));
+        responseBody.append(QJsonValue(wordObject));
+    }
+
+    socket->sendTextMessage(QJsonDocument(responseBody).toJson());
     socket->flush();
 }
 
@@ -44,4 +54,13 @@ void TransliterationChat::socketDisconnected()
     socket->deleteLater();
     transliterator->deleteLater();
     exit(0);
+}
+
+QString TransliterationChat::preProcessMessage(QString message)
+{
+    if (message.startsWith("\"") && message.endsWith("\"")) {
+        message.remove(0, 1);
+        message.remove(message.length() - 1, 1);
+    }
+    return message;
 }

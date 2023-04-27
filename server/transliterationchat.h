@@ -21,8 +21,11 @@ signals:
     void socketDisconnect(QWebSocket *socket);
 
 public slots:
-    void messageRecieved(const QString &message);
+    void messageRecieved(QString message);
     void socketDisconnected();
+
+private:
+    QString preProcessMessage(QString message);
 
 private:
     QWebSocket *socket;

@@ -26,7 +26,6 @@ pipeline{
 
                         steps {
                                 sh 'docker push markdurkot/transliterator-backend:latest'
-:latest'
                         }
                 }
         }

@@ -50,4 +50,5 @@ RESOURCES += \
 DISTFILES += \
     CMakeLists.txt \
     Dockerfile \
-    Jenkinsfile
+    Jenkinsfile \
+    startup.sh

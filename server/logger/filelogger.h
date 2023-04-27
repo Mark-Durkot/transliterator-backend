@@ -36,7 +36,7 @@ public:
         QFile file("log.txt");
 
 
-        if (!file.open(QFile::WriteOnly | QFile::Text))
+        if (!file.open(QFile::ReadWrite | QFile::Text))
         {
             QTextStream fileStream(&file);
             fileStream << message;

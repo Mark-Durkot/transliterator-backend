@@ -19,7 +19,7 @@ int main(int argc, char *argv[])
 {
     QCoreApplication a(argc, argv);
 
-    Logger *logger = new FileLogger();
+    Logger *logger = new ConsoleLogger();
 
     WebSocketServer *webSocketserver = new WebSocketServer(logger);
     webSocketserver->startServer();

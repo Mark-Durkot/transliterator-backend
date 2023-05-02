@@ -142,18 +142,21 @@ public:
         return words[startIndex];
     }
 
-    QString join(const QChar &separator)
+    QString join(const QString &separator="")
     {
-        if (this->count() == 1) { return this->first().text; }
+        if (this->count() <= 1) { return this->first().text; }
 
         QString result;
-        foreach(const auto &word, *this)
+        for (int i = 0; i < this->count(); ++i)
         {
-            result += word.text + separator;
+            const auto text = this->operator[](i).text;
+            result += text;
+            if (i < this->count() - 1)
+            {
+                result += separator;
+            }
         }
 
-        // removing last separator
-        result.resize(result.length() - 1);
 
         return result;
     }
@@ -298,7 +301,7 @@ private:
 
             if (potentialExceptionsList.isEmpty()) { return; }
 
-            QString potentialException = potentialExceptionsList.join(' ');
+            QString potentialException = potentialExceptionsList.join();
             if (languagePair->isException(potentialException))
             {
                 auto &word = words.merge(exceptionEndIndex - potentialExceptionsList.count() + 1, exceptionEndIndex, ' ');

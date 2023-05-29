@@ -32,5 +32,5 @@
  <syllable type="0" target="shch" source="щ"/>
  <syllable type="0" target="iu" source="ю"/>
  <syllable type="0" target="ia" source="я"/>
- <syllable type="0" target="-" source="ь"/>
+ <syllable type="0" target="" source="ь"/>
 </language_pair>

@@ -23,6 +23,10 @@ else: unix:!android: target.path = /opt/$${TARGET}/bin
 !isEmpty(target.path): INSTALLS += target
 
 HEADERS += \
+    server/datasource/apidatasource.h \
+    server/datasource/datasource.h \
+    server/datasources/datasource.h \
+    server/datasources/postgresdatasource.h \
     server/httpserver.h \
     server/logger/filelogger.h \
     server/logger/logger.h \

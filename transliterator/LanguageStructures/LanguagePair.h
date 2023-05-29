@@ -65,6 +65,8 @@ public:
         exceptions.sortByDescendingSyllableLenght();
     }
 
+    long getId() const { return id; }
+
     const SyllablePairSet &getSyllables()  const { return syllables;  }
     const SyllablePairSet &getExceptions() const { return exceptions; }
 
@@ -113,7 +115,39 @@ public:
         return false;
     }
 
+    void setSourceLanguage(QString s)
+    {
+        sourceLanguageName = s;
+    }
+
+    void setTargetLanguage(QString s)
+    {
+        targetLanguageName = s;
+    }
+
+    void setBidirectional(bool b)
+    {
+        twoWayTransliteration = b;
+    }
+
+    void setSyllables(SyllablePairSet s)
+    {
+        syllables = s;
+    }
+
+    void setExceptions(SyllablePairSet e)
+    {
+        exceptions = e;
+    }
+
+    void setId(long id)
+    {
+        this->id = id;
+    }
+
 private:
+    long id;
+
     SyllablePairSet syllables;
     SyllablePairSet exceptions;
 

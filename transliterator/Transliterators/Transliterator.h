@@ -17,6 +17,7 @@ public:
         : QObject(parent),
           languagePair(l), languagePairIndex(l)
     {
+        languagePair->setParent(this);
     }
 
     virtual WordList transliterate(const QString &text) const
